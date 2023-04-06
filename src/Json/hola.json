@@ -1,0 +1,19 @@
+[{
+    "imagen":"alimentos.png",
+    "titulo":"Horarios 2022",
+    "subtitulo":"Te esperamos!",
+    "texto":"Derqui 402: Lunes a Sábados de 10 a 20hs."
+},
+{
+    "imagen":"micro.png",
+    "titulo":"Envíos a Domicilio",
+    "subtitulo":"Muy fácil, del local a tu casa!",
+    "texto":"Hace tu pedido en la web o al 2614173230 y te lo llevamos a casa!"
+},
+{
+    "imagen":"tarjetas.png",
+    "titulo":"Formas de Pago",
+    "subtitulo":"Abona en la entrega o por Mercado Pago",
+    "texto":"Efectivo, Débito y Crédito"
+}
+]

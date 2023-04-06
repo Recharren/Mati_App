@@ -1,0 +1,19 @@
+.contenedorPrincipal{
+    background-color: rgb(174, 212, 174);   
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding-right: 5%;
+    
+}
+
+li{
+    padding: 0 5px;
+}

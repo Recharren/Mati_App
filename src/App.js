@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import './styles/App.css';
+import BarraSuperior from './componentes/BarraSuperior';
+import BarraPrincipal from './componentes/BarraPrincipal';
+
+import Destacados from './componentes/Destacados';
+import Carrousel from './componentes/Carrousel';
+import Informacion from './componentes/Informacion';
+import Suscripcion from './componentes/Suscripcion';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BarraSuperior 
+      numero = {2}
+      palabra = {`Palabra ejemplo`} />
+      <BarraPrincipal/>
+      <Carrousel/>
+      <Destacados/>
+      <Informacion/>
+      <Suscripcion/>
     </div>
   );
 }

@@ -1,0 +1,18 @@
+.contenedor_item{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.item_img{
+    max-width: 70px;
+}
+.item_titulo{
+
+}
+.item_subtitulo{
+    color: rgb(101, 196, 101);
+}
+.item_texto{
+    font-weight: 400;
+    font-size: 1.2rem;
+}

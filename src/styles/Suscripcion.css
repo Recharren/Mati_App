@@ -1,0 +1,7 @@
+.contenedor_suscripcion{
+    height: 250px;
+    max-width: 100vw;
+    border: 3px solid orange;
+    text-align: center;
+    padding-top: 40px;
+}

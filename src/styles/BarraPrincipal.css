@@ -1,0 +1,36 @@
+.BarraPrincipal{
+    display: flex;
+    width: 100%;
+}
+
+.BarraPrincipal img{
+    width: 300px;
+    padding-left: 30px;
+}
+
+.barraBuscar{
+    width: 600px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.inputBuscar{
+    border: 2px solid rgb(174, 212, 174);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin: 3px;
+    width: 200px;
+    padding: 3px;
+    
+}
+.ulPrincipal{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ulPrincipal li{
+    margin: 0 10px;
+}

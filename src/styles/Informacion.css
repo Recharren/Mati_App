@@ -1,0 +1,6 @@
+.contenedor_informacion{
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0 20px 0;
+}
